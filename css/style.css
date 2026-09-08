@@ -544,6 +544,10 @@ h1 {
   font-weight: 500;
 }
 
+.teaching-contacts dd + .contact-name {
+  margin-top: 1.25rem;
+}
+
 .personal-header {
   max-width: 43rem;
   margin-inline: auto;
